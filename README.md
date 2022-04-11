@@ -1,1 +1,1 @@
-# aiogram_tgBot_lesson3_Mailing
+# aiogram_tgBot_Mailing
